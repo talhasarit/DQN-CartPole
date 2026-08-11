@@ -1,6 +1,6 @@
 # DQN CartPole
 
-[![CI](https://github.com/SeeknnDestroy/DQN-CartPole/actions/workflows/ci.yml/badge.svg)](https://github.com/SeeknnDestroy/DQN-CartPole/actions/workflows/ci.yml)
+[![CI](https://github.com/talhasarit/DQN-CartPole/actions/workflows/ci.yml/badge.svg)](https://github.com/talhasarit/DQN-CartPole/actions/workflows/ci.yml)
 
 Minimal, reproducible Deep Q-Network training and evaluation for `CartPole-v1` using PyTorch and Gymnasium.
 
